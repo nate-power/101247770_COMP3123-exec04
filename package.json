@@ -1,0 +1,26 @@
+{
+  "name": "101247770_comp3123-exec04",
+  "version": "1.0.0",
+  "description": "Lab Exercise 04",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nate-power/101247770_COMP3123-exec04.git"
+  },
+  "author": "Nate Power",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nate-power/101247770_COMP3123-exec04/issues"
+  },
+  "homepage": "https://github.com/nate-power/101247770_COMP3123-exec04#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
